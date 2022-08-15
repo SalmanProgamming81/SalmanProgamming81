@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <b>MD SALMAN SAIF</b></h1>
-<h3 align="center">A Dedicated software developer in bangladesh</h3>
+<h3 align="center">A Dedicated Software Developer in Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanprogamming81&label=Profile%20views&color=0e75b6&style=flat" alt="salmanprogamming81" /> </p>
 
